@@ -1,0 +1,549 @@
+{
+  "honda": [
+    {
+      "id": 1,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+      "model": "Honda City",
+      "title": "honda city 2010 blue",
+      "year": 2010,
+      "price": 500000,
+      "color": "blue",
+      "power": "1000 cc",
+      "maxspeed": 18.4
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvb9yYaA6HXOmFJHgLWDwTRAA9tpHrhM2nw&usqp=CAU",
+      "model": "honda amaze",
+      "year": 2020,
+      "title": "honda amaze 2020 black",
+      "price": 960000,
+      "color": "black",
+      "power": "999 cc",
+      "maxspeed": 18.6
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUSGJEDn739IXbX14hM4nHRrywrdp5HoyEw&usqp=CAU",
+      "model": "Honda city hybrid",
+      "year": 2018,
+      "title": "honda city hybrid 2018 white",
+      "price": 2039000,
+      "color": "white",
+      "power": "1090 cc",
+      "maxspeed": 27.13
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoSGbWe1XHPRpsynnhW-jLnyIoWu4hjgY5Q&usqp=CAU",
+      "model": "honda accord",
+      "year": 2016,
+      "title": "honda accord 2016 grey",
+      "price": 400000,
+      "color": "grey",
+      "power": "1000 cc",
+      "maxspeed": 20
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4OBHOzaxNMPvApeKbTH89hSkEbA-MZV7Pg&usqp=CAU",
+      "model": "honda jazz",
+      "year": 2019,
+      "price": 200000,
+      "color": "red",
+      "title": "honda jazz 2019 red",
+      "power": "1030 cc",
+      "maxspeed": 21.3
+    }
+  ],
+  "maruti": [
+    {
+      "id": 6,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1673503366.jpg?width=360?q=65",
+      "model": "maruti fronx",
+      "title": "maruti fronx 2019 blue",
+      "year": 2019,
+      "price": 1300000,
+      "color": "blue",
+      "power": "1900 cc",
+      "maxspeed": 23
+    },
+    {
+      "id": 7,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660727044.png?width=360?q=65",
+      "model": "maruti brezza",
+      "title": "maruti brezze 2011 red",
+      "year": 2021,
+      "price": 1400000,
+      "color": "red",
+      "power": "1000 cc",
+      "maxspeed": 20.15
+    },
+    {
+      "id": 8,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1661165276.jpg?width=360?q=65",
+      "model": "maruti swift",
+      "title": "maruti swift 2017 red",
+      "year": 2017,
+      "price": 900000,
+      "color": "red",
+      "power": "1020 cc",
+      "maxspeed": 30.9
+    },
+    {
+      "id": 9,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660712228.png?width=360?q=65",
+      "model": "maruti ertiga",
+      "title": "maruti ertiga 2018 marroon",
+      "year": 2018,
+      "price": 1300000,
+      "color": "marroon",
+      "power": "1200 cc",
+      "maxspeed": 26.11
+    },
+    {
+      "id": 10,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1661242387.jpg?width=360?q=65",
+      "model": "maruti eeco",
+      "title": "maruti eeco 2015 sky blue",
+      "year": 2015,
+      "price": 700000,
+      "color": "sky blue",
+      "power": "800 cc",
+      "maxspeed": 21
+    }
+  ],
+  "bmw": [
+    {
+      "id": 11,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X1/10064/1683261436040/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+      "model": "bmw x1",
+      "year": 2022,
+      "title": "bmw x1 2022 silver",
+      "price": 5100000,
+      "color": "silver",
+      "power": "1500 cc",
+      "maxspeed": 22
+    },
+    {
+      "id": 12,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X7/9462/1673948689052/front-left-side-47.jpg?tr=w-456",
+      "model": "bmw x7",
+      "title": "bmw x7 2021 grey",
+      "year": 2021,
+      "price": 12500000,
+      "color": "grey",
+      "power": "1900 cc",
+      "maxspeed": 28
+    },
+    {
+      "id": 13,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/F-TYPE/7810/1675671305429/front-left-side-47.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw f-type",
+      "title": "bmw f-type 2020 blue",
+      "year": 2020,
+      "price": 15600000,
+      "color": "blue",
+      "power": "1900 cc",
+      "maxspeed": 40
+    },
+    {
+      "id": 14,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/360x240/BMW/BMW-X5/1558001906948/047.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw x5",
+      "title": "bmw x5 2021 white",
+      "year": 2021,
+      "price": 9990000,
+      "color": "white",
+      "power": "2000 cc",
+      "maxspeed": 30
+    },
+    {
+      "id": 15,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/M4-Competition/8049/1644496825816/front-left-side-47.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw m4 competition",
+      "title": "bmw m4 competition 2022 yellow",
+      "year": 2022,
+      "price": 14800000,
+      "color": "yellow",
+      "power": "2100 cc",
+      "maxspeed": 50
+    }
+  ],
+  "audi": [
+    {
+      "id": 16,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A6/6426/1571906388003/front-left-side-47.jpg?impolicy=resize&imwidth=220",
+      "model": "audi a6",
+      "title": "audi a6 2017 black",
+      "year": 2017,
+      "price": 6776000,
+      "color": "black",
+      "power": "1100 cc",
+      "maxspeed": 20
+    },
+    {
+      "id": 17,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q5/7890/1637668688255/front-left-side-47.jpg",
+      "model": "audi q5",
+      "title": "audi q5 2019 black",
+      "year": 2019,
+      "price": 6731000,
+      "color": "black",
+      "power": "1200 cc",
+      "maxspeed": 30
+    },
+    {
+      "id": 18,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/9321/1670914111785/front-left-side-47.jpg",
+      "model": "audi a4",
+      "title": "audi a4 2020 red",
+      "year": 2020,
+      "price": 5185000,
+      "color": "red",
+      "power": "1100 cc",
+      "maxspeed": 25
+    },
+    {
+      "id": 19,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q3/6513/1677913413712/front-left-side-47.jpg",
+      "model": "audi q3",
+      "title": "audi q3 2020 orange",
+      "year": 2020,
+      "price": 5039000,
+      "color": "orange",
+      "power": "1200 cc",
+      "maxspeed": 27
+    },
+    {
+      "id": 20,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/RS5/8533/1660737667776/front-left-side-47.jpg",
+      "model": "audi rs5",
+      "title": "audi rs5 2023 grey",
+      "year": 2023,
+      "price": 11300000,
+      "color": "grey",
+      "power": "1700 cc",
+      "maxspeed": 31
+    }
+  ],
+  "user": [
+    {
+      "id": 21,
+      "name": "mitali",
+      "password": "123456",
+      "role": "user",
+      "email": "sinha@mitali"
+    },
+    {
+      "username": "dd",
+      "password": "123456",
+      "id": 22
+    },
+    {
+      "username": "etgd",
+      "password": "123456",
+      "id": 23
+    },
+    {
+      "username": "mitali",
+      "password": "123456",
+      "id": 24
+    },
+    {
+      "name": "mitali",
+      "email": "login@gmail",
+      "password": "123456",
+      "role": "User",
+      "id": 25
+    },
+    {
+      "name": "dev",
+      "email": "dev@das",
+      "password": "123456",
+      "role": "User",
+      "id": 26
+    }
+  ],
+  "dealer": [
+    {
+      "id": 22,
+      "name": "mitali",
+      "password": "123456",
+      "role": "dealer",
+      "email": "sinha@mitali"
+    },
+    {
+      "name": "dd",
+      "email": "dd@gmail",
+      "password": "123456",
+      "role": "Dealer",
+      "id": 23
+    },
+    {
+      "name": "atse",
+      "email": "atse@gmail.com",
+      "password": "123456",
+      "role": "Dealer",
+      "id": 24
+    },
+    {
+      "username": "dd",
+      "password": "123456",
+      "id": 25
+    },
+    {
+      "username": "etgd",
+      "password": "123456",
+      "id": 26
+    },
+    {
+      "username": "mitali",
+      "password": "123456",
+      "id": 27
+    },
+    {
+      "name": "ashmit",
+      "email": "ashmit@yadav",
+      "password": "ashmit",
+      "role": "Dealer",
+      "id": 28
+    },
+    {
+      "name": "ashmit",
+      "email": "ashmit@yadav",
+      "password": "123456",
+      "role": "Dealer",
+      "id": 29
+    },
+    {
+      "name": "ram",
+      "email": "ram@ji",
+      "password": "123456",
+      "role": "Dealer",
+      "id": 30
+    }
+  ],
+  "allData": [
+    {
+      "id": 1,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+      "model": "Honda City",
+      "title": "honda city 2010 blue",
+      "year": 2010,
+      "price": 500000,
+      "color": "blue",
+      "power": "1000 cc",
+      "maxspeed": 18.4
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvb9yYaA6HXOmFJHgLWDwTRAA9tpHrhM2nw&usqp=CAU",
+      "model": "honda amaze",
+      "year": 2020,
+      "title": "honda amaze 2020 black",
+      "price": 960000,
+      "color": "black",
+      "power": "999 cc",
+      "maxspeed": 18.6
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUSGJEDn739IXbX14hM4nHRrywrdp5HoyEw&usqp=CAU",
+      "model": "Honda city hybrid",
+      "year": 2018,
+      "title": "honda city hybrid 2018 white",
+      "price": 2039000,
+      "color": "white",
+      "power": "1090 cc",
+      "maxspeed": 27.13
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoSGbWe1XHPRpsynnhW-jLnyIoWu4hjgY5Q&usqp=CAU",
+      "model": "honda accord",
+      "year": 2016,
+      "title": "honda accord 2016 grey",
+      "price": 400000,
+      "color": "grey",
+      "power": "1000 cc",
+      "maxspeed": 20
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4OBHOzaxNMPvApeKbTH89hSkEbA-MZV7Pg&usqp=CAU",
+      "model": "honda jazz",
+      "year": 2019,
+      "price": 200000,
+      "color": "red",
+      "title": "honda jazz 2019 red",
+      "power": "1030 cc",
+      "maxspeed": 21.3
+    },
+    {
+      "id": 6,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1673503366.jpg?width=360?q=65",
+      "model": "maruti fronx",
+      "title": "maruti fronx 2019 blue",
+      "year": 2019,
+      "price": 1300000,
+      "color": "blue",
+      "power": "1900 cc",
+      "maxspeed": 23
+    },
+    {
+      "id": 7,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660727044.png?width=360?q=65",
+      "model": "maruti brezza",
+      "title": "maruti brezze 2011 red",
+      "year": 2021,
+      "price": 1400000,
+      "color": "red",
+      "power": "1000 cc",
+      "maxspeed": 20.15
+    },
+    {
+      "id": 8,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1661165276.jpg?width=360?q=65",
+      "model": "maruti swift",
+      "title": "maruti swift 2017 red",
+      "year": 2017,
+      "price": 900000,
+      "color": "red",
+      "power": "1020 cc",
+      "maxspeed": 30.9
+    },
+    {
+      "id": 9,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660712228.png?width=360?q=65",
+      "model": "maruti ertiga",
+      "title": "maruti ertiga 2018 marroon",
+      "year": 2018,
+      "price": 1300000,
+      "color": "marroon",
+      "power": "1200 cc",
+      "maxspeed": 26.11
+    },
+    {
+      "id": 10,
+      "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1661242387.jpg?width=360?q=65",
+      "model": "maruti eeco",
+      "title": "maruti eeco 2015 sky blue",
+      "year": 2015,
+      "price": 700000,
+      "color": "sky blue",
+      "power": "800 cc",
+      "maxspeed": 21
+    },
+    {
+      "id": 11,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X1/10064/1683261436040/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+      "model": "bmw x1",
+      "year": 2022,
+      "title": "bmw x1 2022 silver",
+      "price": 5100000,
+      "color": "silver",
+      "power": "1500 cc",
+      "maxspeed": 22
+    },
+    {
+      "id": 12,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X7/9462/1673948689052/front-left-side-47.jpg?tr=w-456",
+      "model": "bmw x7",
+      "title": "bmw x7 2021 grey",
+      "year": 2021,
+      "price": 12500000,
+      "color": "grey",
+      "power": "1900 cc",
+      "maxspeed": 28
+    },
+    {
+      "id": 13,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/F-TYPE/7810/1675671305429/front-left-side-47.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw f-type",
+      "title": "bmw f-type 2020 blue",
+      "year": 2020,
+      "price": 15600000,
+      "color": "blue",
+      "power": "1900 cc",
+      "maxspeed": 40
+    },
+    {
+      "id": 14,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/360x240/BMW/BMW-X5/1558001906948/047.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw x5",
+      "title": "bmw x5 2021 white",
+      "year": 2021,
+      "price": 9990000,
+      "color": "white",
+      "power": "2000 cc",
+      "maxspeed": 30
+    },
+    {
+      "id": 15,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/M4-Competition/8049/1644496825816/front-left-side-47.jpg?imwidth=320&impolicy=resize",
+      "model": "bmw m4 competition",
+      "title": "bmw m4 competition 2022 yellow",
+      "year": 2022,
+      "price": 14800000,
+      "color": "yellow",
+      "power": "2100 cc",
+      "maxspeed": 50
+    },
+    {
+      "id": 16,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A6/6426/1571906388003/front-left-side-47.jpg?impolicy=resize&imwidth=220",
+      "model": "audi a6",
+      "title": "audi a6 2017 black",
+      "year": 2017,
+      "price": 6776000,
+      "color": "black",
+      "power": "1100 cc",
+      "maxspeed": 20
+    },
+    {
+      "id": 17,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q5/7890/1637668688255/front-left-side-47.jpg",
+      "model": "audi q5",
+      "title": "audi q5 2019 black",
+      "year": 2019,
+      "price": 6731000,
+      "color": "black",
+      "power": "1200 cc",
+      "maxspeed": 30
+    },
+    {
+      "id": 18,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/9321/1670914111785/front-left-side-47.jpg",
+      "model": "audi a4",
+      "title": "audi a4 2020 red",
+      "year": 2020,
+      "price": 5185000,
+      "color": "red",
+      "power": "1100 cc",
+      "maxspeed": 25
+    },
+    {
+      "id": 19,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q3/6513/1677913413712/front-left-side-47.jpg",
+      "model": "audi q3",
+      "title": "audi q3 2020 orange",
+      "year": 2020,
+      "price": 5039000,
+      "color": "orange",
+      "power": "1200 cc",
+      "maxspeed": 27
+    },
+    {
+      "id": 20,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/RS5/8533/1660737667776/front-left-side-47.jpg",
+      "model": "audi rs5",
+      "title": "audi rs5 2023 grey",
+      "year": 2023,
+      "price": 11300000,
+      "color": "grey",
+      "power": "1700 cc",
+      "maxspeed": 31
+    }
+  ]
+}

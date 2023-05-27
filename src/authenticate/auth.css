@@ -1,0 +1,118 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgoRdWK_O6xXJTK-eFw2EPBthw0HqRCgnzw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter:blur(3px);
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 400px;
+    text-align: center;
+    padding: 20px;
+    background-color: #e1dcdc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .container h1 {
+    margin-bottom: 20px;
+  }
+
+  .container .btn {
+    display: block;
+    width: 85%;
+    background-color: #6a1969;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .container .btn:hover {
+    background-color: #3c153b;
+  }
+
+  
+  .contain .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  .contain .form-group input[type="checkbox"] {
+    display: inline;
+    margin-right: 5px;
+  }
+
+  .contain .form-group .terms {
+    font-size: 12px;
+    color: #888888;
+  }
+
+  .contain input[type="submit"]:hover {
+    background-color: #6a1969;
+  }
+
+  .contain .form-group {
+    margin-bottom: 15px;
+  }
+
+  .contain .form-group:last-child {
+    margin-bottom: 0;
+  }
+  .contain input[type="submit"] {
+    width: 100%;
+    background-color: #6a1969;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  
+  .contain h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .contain input[type="text"],
+  .contain input[type="password"] ,
+  .contain input[type='text'],
+  .contain select[type="text"]{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  .bodyContain {
+    font-family: Arial, sans-serif;
+    background-color: #d3d0d0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .contain {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }

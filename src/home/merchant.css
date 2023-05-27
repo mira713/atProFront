@@ -1,0 +1,23 @@
+.grid{
+    width:80%;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:30px;
+}
+.imgContainer{
+    height:50%;
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+.details>p{
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.cont{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding:5vh;
+    height:auto;
+    /* background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%); */
+}
