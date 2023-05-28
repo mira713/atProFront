@@ -4,7 +4,8 @@ import Homes from '../authenticate/home';
 import Register from "../authenticate/register";
 import Login from '../authenticate/login';
 import Home from '../home/home';
-import Merchant from '../home/merchant'
+import Merchant from '../home/merchant';
+import AllProduct from '../home/allProduct';
 
 const AllRoutes = () => {
   return (
@@ -15,6 +16,7 @@ const AllRoutes = () => {
     <Route path="/login" element={<Login/>}/>
     <Route path="/home" element={<Home/>}/>
     <Route path="/merchant" element={<Merchant/>}/>
+    <Route path="/allProduct" element={<AllProduct/>}/>
 </Routes>
     </div>
   )

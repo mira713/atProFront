@@ -1,19 +1,33 @@
 import React,{useState} from 'react'
 import data from '../db.json';
 import './merchant.css'
-import Navbar from "./navbar"
+import Navbar from "./navbar";
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
+  let work = JSON.parse(localStorage.getItem('worker'));
+  let [worker, setWorker] = useState(work);
     let [honda, setHonda] = useState(data.honda);
     let [audi, setAudi] = useState(data.audi);
     let [bmw, setBmw] = useState(data.bmw);
     let [maruti, setMaruti] = useState(data.maruti);
+    let navigate = useNavigate()
 
 console.log(data)
   return (
     <div>
-    <Navbar/>
-    {/* // <div style={{backgroundColor:"#f2eeed"}}> */}
+    <Navbar work={worker}/>
+    <div style={{display:"flex", justifyContent:"space-around"}}>
+      <div>
+        <button className="addButton" onClick={()=>navigate('/merchant')}>see original model</button>
+      </div>
+      <div>
+        {worker.role=="dealer"|| worker.role=="Dealer"? <button className="addButton" onClick={()=>navigate('/home')}>Dealer page</button>:""}
+      </div>
+      <div>
+      {worker.role=="dealer"|| worker.role=="Dealer"? <button className="addButton" onClick={()=>navigate('/allProduct')}>see all secondhand cars</button>:<button className="addButton" onClick={()=>navigate('/home')}>see all secondhand cars</button>}
+      </div>
+      </div>
     <div>
         <h1><u>Car details</u></h1>
 
