@@ -418,8 +418,8 @@ const Home = () => {
           <option value="2">more than 1000 cc</option>
         </select>
       </div>:<div></div>}
-      
-        {data===[]?(<div>
+        
+        {!data[0]?(<div>
           <h3>No item added by the dealer yet</h3>
           <p>Click on "Add new detail" to add item to your list</p>
           <img alt="empty" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79OWap4RAEOrshlmoDjb9qvPA004EUKExzsIbQlv6UvjE13Hzl_leE8oI4nlR4xN87Wg&usqp=CAU" width="50%"/>
